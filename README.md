@@ -1,7 +1,10 @@
 ### Olá, tudo bem? 👋
-Meu nome é Ana Clara, sou formada em estatística.<br />
-Gosto muito de tecnologias no geral e pretendo desenvolver alguns projetos e cursos para aprender cada vez mais!<br />
-Espero que gostem!<br />
+Meu nome é Ana Clara, sou formada em Estatística e tenho grande interesse em tecnologia em geral. <br />
+Espero utilizar este ambiente para aprender e desenvolver projetos. Ficaria muito feliz em receber dicas ou opiniões.<br />
+Espero que gostem! <br />
+
+
+
 
 <br>
 
